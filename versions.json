@@ -1,0 +1,117 @@
+{
+  "app_name": "CharaBuddy",
+  "versions": {
+    "1.0.0": {
+      "release_time": "2026-11-13T09:00:36Z",
+      "downloads": [
+        {
+          "version": "1.0.0",
+          "platform": "linux",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-linux-amd64",
+          "size": 44942816,
+          "checksum": "27905f40a55ae17736aeb6d919eddf6ac9d6595c01f6f4dc20c8fac31bd3a182",
+          "time": "2026-11-13T08:57:27Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-linux-amd64"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "linux",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-linux-amd64.AppImage",
+          "size": 29140160,
+          "checksum": "03b4f180719c9ea8303a6e86c07c8fc3321c39759df3cd51dfcf3377d1d708ed",
+          "time": "2026-11-13T08:57:27Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-linux-amd64.AppImage"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "macos",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-macos-amd64.app",
+          "size": 44476416,
+          "checksum": "e3aafe7e1adf0eb5718bcfb19e26730818c002bd5635d23dc79abb9c659748e9",
+          "time": "2026-11-13T08:59:01Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-macos-amd64.app"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "macos",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-macos-amd64.dmg",
+          "size": 44789391,
+          "checksum": "cd11a118decc249eb346e10576c817432deb722f2a18b67226e7eb0b80556fb0",
+          "time": "2026-11-13T08:59:01Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-macos-amd64.dmg"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "macos",
+          "arch": "arm64",
+          "filename": "CharaBuddy-1.0.0-macos-arm64.app",
+          "size": 43233792,
+          "checksum": "c245d160101b3107fc5a226b97406e009f0e59a820fc94135cd1c245b0f06a3d",
+          "time": "2026-11-13T08:57:12Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-macos-arm64.app"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "macos",
+          "arch": "arm64",
+          "filename": "CharaBuddy-1.0.0-macos-arm64.dmg",
+          "size": 43494757,
+          "checksum": "2fe1e8224633a1703a3da58d57a30642fa39b4f7e11774cd2888f1ca78991d3e",
+          "time": "2026-11-13T08:57:12Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-macos-arm64.dmg"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "windows",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-windows-amd64-setup.exe",
+          "size": 29016287,
+          "checksum": "65363e1c53e4c8ae583030acf63df1088490db03471921221d267209b84e4c95",
+          "time": "2026-11-13T08:58:29Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-windows-amd64-setup.exe"
+          ]
+        },
+        {
+          "version": "1.0.0",
+          "platform": "windows",
+          "arch": "amd64",
+          "filename": "CharaBuddy-1.0.0-windows-amd64.exe",
+          "size": 45270528,
+          "checksum": "d62d09da58eb5b4f82521800528902845f57e9c99a474902260c299f6f1df7db",
+          "time": "2026-11-13T08:58:29Z",
+          "download_urls": [
+            "https://github.com/charaorigin/charabuddy-public/releases/download/v1.0.0/CharaBuddy-1.0.0-windows-amd64.exe"
+          ]
+        }
+      ],
+      "changelog": {
+        "url": [
+          "https://raw.githubusercontent.com/charaorigin/charabuddy-public/main/CHANGELOG.md"
+        ]
+      },
+      "force_update": false
+    }
+  },
+  "latest": "1.0.0",
+  "update_time": "2026-11-13T09:00:36Z",
+  "update_check_urls": [
+    "https://raw.githubusercontent.com/charaorigin/charabuddy-public/main/versions.json"
+  ]
+}
